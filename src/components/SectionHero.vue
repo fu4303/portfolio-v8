@@ -11,7 +11,7 @@
       <div class="hero__backgroundText hero__backgroundText--clone"><p>Dev</p></div>
       <div>
         <p class="hero__lead">Hello</p>
-        <p class="hero__heading">It's Paul</p>
+        <p class="hero__heading">It's Alec</p>
         <h1 class="hero__extraLead">
           The
           <strong>Front End Developer</strong>
